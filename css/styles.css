@@ -1,0 +1,13 @@
+#gameBoard {
+    background-color: lightgrey;
+    border: 5px groove black;
+
+}
+
+#scoreBoard {
+    background-color: lightgrey;
+}
+
+body{
+    background-color: #9bffff;
+}
